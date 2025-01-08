@@ -55,5 +55,6 @@ Hi, I'm a passionate MERN Stack Developer skilled in building modern, scalable w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monzila-akter)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=monzila-akter&show_icons=true)  
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=monzila-akter)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=monzila-akter)  
+
