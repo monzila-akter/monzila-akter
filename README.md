@@ -45,7 +45,7 @@
 </a>
 </p>
 
-<h3 align="left">Backend</h3>
+<h3 align="left">Backend:</h3>
 <p align="left"> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -53,6 +53,23 @@
 <a href="https://expressjs.com/" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="80" height="40"/> 
 </a>
+</p>
+
+<h3>Tools:</h3>
+<p>
+  <a href="https://github.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+</a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://gitforwindows.org/" target="_blank"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Git-bash-logo.svg" alt="Git Bash" width="40" height="40"/> 
+</a>
+<a href="https://code.visualstudio.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
+</a>
+<a href="https://www.figma.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
+</a>  
 </p>
 
 
