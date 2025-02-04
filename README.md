@@ -41,7 +41,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/> 
 </a>
 <a href="https://nextjs.org/" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Next.js_Logo.svg" alt="Next.js" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
 </a>
 
 </p>
