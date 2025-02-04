@@ -2,6 +2,8 @@
 #### MERN Stack Developer
 ![MERN Stack Developer](https://github.com/monzila-akter/monzila-akter/blob/main/web%20development.gif)
 
+<h3 align="center">About Me</h3>
+
 Hi, I'm a passionate MERN Stack Developer skilled in building modern, scalable web applications. I love turning ideas into interactive digital experiences with clean, efficient code. Let's create something amazing!
 
 <h3 align="center">Skills:</h3>
