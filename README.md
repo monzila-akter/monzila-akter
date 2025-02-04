@@ -56,7 +56,7 @@
 </p>
 
 <h3>Tools:</h3>
-<p display="flex">
+<p display="flex" items="center">
 <a href="https://github.com/" target="_blank"> 
   <img src="https://github.com/github.png" alt="GitHub" width="40" height="40" style="filter: invert(1);"/> 
 </a>
