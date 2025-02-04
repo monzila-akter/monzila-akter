@@ -71,14 +71,24 @@
 
 
 <h2 align="center">Connect With Me</h2>
-<p display="flex" items="center">
-<a href="https://fb.com/monzila.akter2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="40" width="40" /></a>
-<a href="https://twitter.com/monzila-akter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/monzila-akter-1446291b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="40" width="40" /></a>
-<a href="https://github.com/monzila-akter" target="_blank"> 
-  <img src="https://github.com/github.png" alt="GitHub" width="40" height="40" style="filter: invert(1);"/> 
-</a>
+<p style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://fb.com/monzila.akter2" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+  </a>
+  
+  <a href="https://twitter.com/monzila-akter" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
+  </a>
+  
+  <a href="https://linkedin.com/in/monzila-akter-1446291b4" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  
+  <a href="https://github.com/monzila-akter" target="_blank"> 
+    <img align="center" src="https://github.com/github.png" alt="GitHub" width="40" height="40" style="filter: invert(1);"/>
+  </a>
 </p>
+
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="left"> 
