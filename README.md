@@ -8,9 +8,9 @@
 
 <h2 align="center">Current Activities</h2>
 
-- 🔭 I’m currently working on [bistro-boss](https://monzila-akter)
+- 🔭 I’m currently working on [Coin-Crafter]([https://monzila-akter](https://github.com/monzila-akter/coin-crafter-client))
 
-- 🌱 I’m currently learning **JS, React**
+- 🌱 I’m currently exploring **Next.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/monzila-akter](https://github.com/monzila-akter)
 
