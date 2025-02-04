@@ -8,7 +8,7 @@
 
 <h2 align="center">Current Activities</h2>
 
-- 🔭 I’m currently working on [Coin-Crafter]([https://monzila-akter](https://github.com/monzila-akter/coin-crafter-client))
+- 🔭 I’m currently working on [Coin-Crafter](https://github.com/monzila-akter/coin-crafter-client)
 
 - 🌱 I’m currently exploring **Next.JS**
 
