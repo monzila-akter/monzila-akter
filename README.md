@@ -4,7 +4,7 @@
 
 <h3 align="center">About Me</h3>
 
-Hi, I'm a passionate MERN Stack Developer skilled in building modern, scalable web applications. I love turning ideas into interactive digital experiences with clean, efficient code. Let's create something amazing!
+<P align="center">Hi, I'm a passionate MERN Stack Developer with a love for building modern and scalable web applications. I enjoy turning ideas into interactive digital experiences using clean, efficient, and well-structured code. Always eager to learn and improve, I explore new technologies to create better solutions. Let's collaborate and build something amazing together! </P>
 
 <h3 align="center">Skills:</h3>
 
