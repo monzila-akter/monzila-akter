@@ -104,6 +104,8 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
+<h2>GitHub Stats</h2>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monzila-akter)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=monzila-akter&show_icons=true)  
