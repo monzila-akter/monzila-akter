@@ -89,7 +89,7 @@
   </a>
 </p>
 <h3 align="left"><a href="tel:+8801631243360">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/phone.svg" alt="Phone" width="40" height="40" style="filter: invert(1);"/>
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Phone" width="40" height="40"/>
 </a> +8801631243360</h3>
 
 <h2 align="center">GitHub Stats</h2>
