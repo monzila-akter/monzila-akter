@@ -88,9 +88,11 @@
     <img align="center" src="https://github.com/github.png" alt="GitHub" width="40" height="40" style="filter: invert(1);"/>
   </a>
 </p>
+<h3 align="left"><a href="tel:+8801631243360">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/phone.svg" alt="Phone" width="40" height="40" style="filter: invert(1);"/>
+</a> +8801631243360</h3>
 
-<h2 align="left">GitHub Stats</h2>
-<h3>Contact: +8801631243360</h3>
+<h2 align="center">GitHub Stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monzila-akter)](https://github.com/anuraghazra/github-readme-stats)
 
